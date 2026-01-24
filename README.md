@@ -1,0 +1,1 @@
+- Os arquivos de dados originais da Olist são grandes e estão disponíveis em https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce. O repositório contém apenas o código e notebooks utilizados na análise
